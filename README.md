@@ -7,3 +7,6 @@
 - LLM GEMMA 4B generates Context-Aware Answers accordingly to the context and prompt.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ODZAAp9d_9-2mnsMZkVZMBwfihKWLdPH?usp=sharing)
+
+
+https://github.com/AgroConnect-Empowering-Indian-Farmers/AgroConnect-dev  -- Intial Dev Repo
