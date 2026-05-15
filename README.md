@@ -9,4 +9,4 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ODZAAp9d_9-2mnsMZkVZMBwfihKWLdPH?usp=sharing)
 
 
-https://github.com/AgroConnect-Empowering-Indian-Farmers/AgroConnect-dev  -- Intial Dev Repo
+https://github.com/AgroConnect-Empowering-Indian-Farmers/AgroConnect-dev  -- Initial Dev Repo
