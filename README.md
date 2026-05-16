@@ -6,7 +6,7 @@
 - Semantic Search is Carried with respective to query defined for Context Retrival.
 - LLM GEMMA 4B generates Context-Aware Answers accordingly to the context and prompt.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ODZAAp9d_9-2mnsMZkVZMBwfihKWLdPH?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V5oEq-q5Ypiri3eCXti7sOdwXQVyHoQB)
 
 
 https://github.com/AgroConnect-Empowering-Indian-Farmers/AgroConnect-dev  -- Initial Dev Repo
